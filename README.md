@@ -1,8 +1,8 @@
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
-<H3>NAME: tamizh selvan</H3>
-<H3>REGISTER NO: 212222230158</H3>
+<H3>NAME: Kathir VS</H3>
+<H3>REGISTER NO: 212221040075</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:</H3>
+<H3>DATE: 09/09/2024</H3>
 <H3>Aim:  </H3>  To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
 <h3>Algorithm:</h3>
 
